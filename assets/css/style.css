@@ -222,8 +222,7 @@ Last change: 20/10/2015
 
 
 	/* -- 5.1) home-section -- */
-	.home-slide img{background-repeat:no-repeat; background-position: center center;
-		background-attachment:fixed; height: 125%;}
+	.home-slide img{background-size:cover; background-repeat:no-repeat; height: 125%;}
 
 	.home-slideshow-outer{width:100%;margin:0 auto;overflow:hidden;position:relative;}
 	/* -- .home-slide{width:100%;background-size:cover;background-position:top;}
