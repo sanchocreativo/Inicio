@@ -222,7 +222,7 @@ Last change: 20/10/2015
 
 
 	/* -- 5.1) home-section -- */
-	.home-slide img{background-size:contain; background-repeat:no-repeat; background-position: center center;
+	.home-slide img{background-repeat:no-repeat; background-position: center center;
 		background-attachment:fixed; height: 125%;}
 
 	.home-slideshow-outer{width:100%;margin:0 auto;overflow:hidden;position:relative;}
